@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/nav_smartapp1"
+            android:title="@string/title_activity_smartapp1" />
+        <item
+            android:id="@+id/nav_smartliving"
+            android:title="@string/title_activity_sleeptracker" />
+        <item
+            android:id="@+id/nav_power_consumption"
+            android:title="@string/title_activity_powerstat" />
+        <item
+            android:id="@+id/nav_logout"
+            android:title="@string/logout" />
+        <item
+            android:id="@+id/nav_push_notif"
+            android:title="Test Notification" />
+    </group>
+
+</menu>

@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">SmartLiving</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="title_activity_powerstat">Power Consumption Statistics</string>
+    <string name="title_activity_smartapp1">Light Controller</string>
+    <string name="title_activity_sleeptracker">Sleep Tracker</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+
+    <string name="login">Log In</string>
+    <string name="username">Username</string>
+    <string name="hint_username">Enter Your Username Here</string>
+    <string name="password">Password</string>
+    <string name="hint_password">Enter Your Password</string>
+    <string name="recent_log">Your Most Recent Activities</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="smart_app_name">Application Name</string>
+    <string name="power_consumption">Power Consumption(W)</string>
+    <string name="sleep_schedule_header">Your Sleeping Schedule This Week</string>
+    <string name="sleeping_time">You slept from</string>
+    <string name="currently_sleeping">I am going to Sleep</string>
+    <string name="currently_awake">I have woken up</string>
+    <string name="change_language">Change Language</string>
+    <string name="status">Light Bulb Status</string>
+    <string name="login_inst">Please log in to access the application\'s features</string>
+    <string name="smartapp1_instr">Control your light bulbs with a click</string>
+    <string name="insufficient_sleep_warning">You may need more sleep</string>
+    <string name="light_controller">Room Lights</string>
+    <string name="home">Home</string>
+    <string name="logout">Log Out</string>
+    <string name="logout_confirmation">Are you sure you want to log out?</string>
+    <string name="title_activity_help">HelpActivity</string>
+    <string name="sleeptracker_desc">
+        This feature is developed to help user track the amount of sleep they have
+        been getting for the past week, in hope to notify users of their current sleep deficiency.</string>
+    <string name="help_instr_1">Press on the switch within the toolbar to indicate you are sleeping</string>
+    <string name="help_instr_2">Press on the switch again the next morning to indicate you are awake.</string>
+    <string name="close">Close</string>
+    <string name="light_on">Lighting turned on</string>
+    <string name="light_off">Lighting turned off</string>
+</resources>
